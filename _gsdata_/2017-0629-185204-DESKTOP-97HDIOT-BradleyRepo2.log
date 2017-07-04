@@ -1,0 +1,782 @@
+2017-06-29 18:52:06: -- Analysis Started by On File Change First Full Analyze Upon Folder Connect
+2017-06-29 18:56:36: /addons.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /addons.xml.md5: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/addon.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/changelog.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/elysium.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/LICENSE.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/__init__.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/__init__.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/language/English/strings.po: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/language/Greek/strings.po: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/__init__.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/__init__.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/__init__.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/__init__.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/channels.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/episodes.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/movies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/navigator.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/navigator.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/tvshows.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/indexers/tvshows.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/__init__.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/__init__.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cache.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cache.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/changelog.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cleandate.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cleandate.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cleangenre.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cleangenre.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cleantitle.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/cleantitle.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/client.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/client.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/common.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/control.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/control.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/debrid.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/dialogs.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/dialogs_list.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/directstream.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/dom_parser.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/dom_parser.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/downloader.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/executor.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/favourites.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/favourites.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/jsunfuck.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/jsunpack.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/libtools.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/log_utils.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/metacache.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/metacache.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/parsedom.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/playcount.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/playcount.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/player.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/proxy.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/pyaes/__init__.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/pyaes/aes.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/pyaes/blockfeeder.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/pyaes/util.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/trailer.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/trakt.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/trakt.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/unshorten.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/utils.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/views.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/views.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/workers.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/modules/workers.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/__init__.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/afmovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/allrls.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/alluc.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/animetoon.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/bmoviez.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/bobby.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/chillflix.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/ddlvalley.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/directdl.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/afdah.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/bcinema.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/bcinema_mv_tv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/cinemabox.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/coolxvid_mv_tv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/fdl_mv_tv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/genvideo.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/hdmoviefree.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/miradetodo.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/movie4k_mv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/moviefree.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/moviefree_mv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/moviegee.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/moviego_mv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/moviezone.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/mvzone_mv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/onemovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/openmovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/sockshare_mv_tv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/tunemovie.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/watch32.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/watch5s_mv_tv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/disabled/watchfilm.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/dltube.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/fmovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/gogoanime.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/gomovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/hevcfilm.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/icefilms.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/library.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/moviego.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/movies14.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/movies25.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/movieshd.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/moviexk.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/myddl.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/myvideolink.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/onemovieshd.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/onemx.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/pelispedia.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/primewire.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/projectfree.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/pubfilm.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/putlocker.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/putmovie.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/rapidmovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/releasebb.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/rlshd.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/rlslog.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/rlsmovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/scenedown.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/sceper.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/scnlog.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/scnsrc.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/seriesonline.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/sezonlukdizi.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/solar.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/solarmovie.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/threemovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/tinydl.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/tunemovie.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/tvhd.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/tvrls.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/twoddl.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/vidics.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/watch5s.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/watchcartoon.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/watchepisodes.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/watchfree.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/watchfrees.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/watchseries.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/wonline.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/wrzcraft.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/wso.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/xmovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/lib/sources/ymovies.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/screenshots/01.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/screenshots/02.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/screenshots/03.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/settings.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/1080i/centered/DialogSelectList.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/1080i/centered/DialogSelectx.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/1080i/DialogSelectList.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/1080i/DialogSelectx.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/AddonWindow/black.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/AddonWindow/white.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/Button/close.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/ContentPanel.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/dialog_back.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/focus.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/List/focus.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/progressback.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/progressbar.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbar.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarh_bar.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarh_bar_focus.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarv_bar.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarv_bar_focus.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/icons/1080.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/icons/480.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/icons/4k.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/icons/720.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/icons/sd.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.elysium/resources/skins/icons/torrent.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/_DMsearch.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/_Edit.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/_Edit.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/_ytplist.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/addon.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/addon.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/changelog.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/cloudflare.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/commonresolvers.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/CustomPlayer.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/default.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/genesisresolvers.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/genesisresolvers.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/keepalive.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/LICENSE.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/playtvfr.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/_DMsearch.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/_Edit.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/_Edit.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/_ytplist.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/addon.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/addon.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/changelog.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/cloudflare.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/commonresolvers.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/CustomPlayer.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/default.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/genesisresolvers.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/genesisresolvers.pyo: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/keepalive.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/LICENSE.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/playtvfr.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/vipracing.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/wattv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/plugin.video.freethemonster/youtubedl.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/vipracing.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/wattv.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /plugin.video.freethemonster/youtubedl.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/addon.xml: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/changelog.txt: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/default.py: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/airing-today.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/box-office.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/calendar.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/certificates.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/channels.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/disney.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/downloads.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/featured.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/genres.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/highly-rated.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/icon2.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/icon3.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/imdb.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/in-theaters.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/languages.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/latest-episodes.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/latest-movies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/library_update.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/marvel.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/most-popular.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/most-viewed.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/most-voted.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/movies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/mymovies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/mytvshows.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/networks.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/new-tvshows.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/next.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/next2.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/oscar-winners.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/oscars.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/people-search.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/people-watching.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/people.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/populars.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/poster.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/returning-tvshows.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/search.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/tools.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/trakt.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/trending.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/tvshows.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/userlists.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Default/years.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/airing-today.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/certificates.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/channels.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/disney.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/downloads.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/featured.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/genres.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/icon2.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/in-theaters.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/latest-movies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/marvel.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/most-viewed.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/movies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/mymovies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/networks.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/next.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/oscars.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/people-search.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/people.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/populars.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/poster.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/search.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/tools.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/trending.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Elysium/years.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/airing-today.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/certificates.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/channels.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/disney.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/downloads.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/fanart.jpg: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/featured.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/genres.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/icon.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/icon2.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/in-theaters.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/latest-movies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/marvel.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/most-viewed.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/movies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/mymovies.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/networks.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/next.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/oscars.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/people-search.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/people.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/populars.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/poster.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/search.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/tools.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/trending.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /script.elysium.artwork/resources/media/Zen/years.png: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.program.advancedsettings/plugin.program.advancedsettings-0.8.8.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.program.bradleyswizard/plugin.program.bradleyswizard-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.program.mancavewizard/plugin.program.mancavewizard-0.0.6.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.program.supremebuildswizard/plugin.program.supremebuildswizard-3.0.4.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.program.viperwizard/plugin.program.viperwizard-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.program.Wolfpackwizard/plugin.program.Wolfpackwizard-1.6.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.elysium/plugin.video.elysium-2017.06.27t.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.exodus/plugin.video.exodus-3.1.22.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.freethemonster/plugin.video.freethemonster-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.LimitlessIPTV/plugin.video.LimitlessIPTV-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.mancavetv/plugin.video.mancavetv-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.MaverickTV/plugin.video.MaverickTV-4.2.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.miflix 4.1/plugin.video.miflix 4.1-4.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.playklub/plugin.video.playklub-2.2.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.prosport/plugin.video.prosport-0.83.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.real-movies/plugin.video.real-movies-2.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.salts/plugin.video.salts-2.0.196.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.specto/plugin.video.specto-2017.06.11.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.supremacy/plugin.video.supremacy-1.1.8.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.wolfpack/plugin.video.wolfpack-1.8.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.wweonline/plugin.video.wweonline-0.2.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/plugin.video.xtream-codes/plugin.video.xtream-codes-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.duckpool/repository.duckpool-10.5.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.elysium/repository.elysium-2017.06.10.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.maverickrepo/repository.maverickrepo-1.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.mdrepo/repository.mdrepo-1.0.2.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.metalkettle/repository.metalkettle-2.0.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.noobsandnerds/repository.noobsandnerds-2.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.playersklub/repository.playersklub-1.1.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.simplycaz/repository.simplycaz-1.0.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.supremacy/repository.supremacy-1.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.supremebuilds/repository.supremebuilds-1.0.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/repository.wolfpack/repository.wolfpack-1.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.common.plugin.cache/script.common.plugin.cache-2.5.8.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.elysium.artwork/script.elysium.artwork-2017.06.08.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.elysium.artwork/script.elysium.artwork-2017.06.27.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.exodus.artwork/script.exodus.artwork-1.0.6.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.exodus.metadata/script.exodus.metadata-1.0.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.favourites/script.favourites-7.1.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.grab.fanart/script.grab.fanart-0.14.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.icechannel/script.icechannel-1.0.0.63.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.icechannel.dialogs/script.icechannel.dialogs-0.2.2.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.icechannel.extn.common/script.icechannel.extn.common-0.4.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.icechannel.theme.default/script.icechannel.theme.default-1.0.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.image.resource.select/script.image.resource.select-2.0.2.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.ivueguide/script.ivueguide-3.0.9.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.addon.common/script.module.addon.common-2.0.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.dnspython/script.module.dnspython-1.11.1.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.f4mproxy/script.module.f4mproxy-1.0.16.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.feedparser/script.module.feedparser-5.1.3.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.muckys.common/script.module.muckys.common-1.3.5.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.pyamf/script.module.pyamf-0.6.2.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.socksipy/script.module.socksipy-2.0.0.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: /zips/script.module.universal/script.module.universal-2.0.3.zip: Warning: Older file to replace Newer file
+2017-06-29 18:56:36: Changes: 388, Conflicts: 0, CopyTime: 0, FixState: 3, Errors: 0, All: 8542
+2017-06-29 18:56:36: Left to Right: Copy File: 388 
+2017-06-29 18:56:36: == Sync Started by On File Change First Full Analyze Upon Folder Connect
+2017-06-29 18:56:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/addons.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/addons.xml'
+2017-06-29 18:56:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/addons.xml.md5' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/addons.xml.md5'
+2017-06-29 18:56:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/addon.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/addon.xml'
+2017-06-29 18:56:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/changelog.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/changelog.txt'
+2017-06-29 18:56:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/elysium.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/elysium.py'
+2017-06-29 18:56:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/fanart.jpg'
+2017-06-29 18:56:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/icon.png'
+2017-06-29 18:56:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/LICENSE.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/LICENSE.txt'
+2017-06-29 18:56:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/__init__.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/__init__.py'
+2017-06-29 18:56:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/__init__.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/__init__.pyo'
+2017-06-29 18:56:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/language/English/strings.po' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/language/English/strings.po'
+2017-06-29 18:56:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/language/Greek/strings.po' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/language/Greek/strings.po'
+2017-06-29 18:56:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/__init__.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/__init__.py'
+2017-06-29 18:56:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/__init__.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/__init__.pyo'
+2017-06-29 18:56:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/__init__.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/__init__.py'
+2017-06-29 18:56:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/__init__.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/__init__.pyo'
+2017-06-29 18:56:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/channels.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/channels.py'
+2017-06-29 18:56:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/episodes.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/episodes.py'
+2017-06-29 18:56:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/movies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/movies.py'
+2017-06-29 18:56:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/navigator.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/navigator.py'
+2017-06-29 18:56:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/navigator.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/navigator.pyo'
+2017-06-29 18:56:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/tvshows.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/tvshows.py'
+2017-06-29 18:56:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/tvshows.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/indexers/tvshows.pyo'
+2017-06-29 18:56:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/__init__.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/__init__.py'
+2017-06-29 18:56:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/__init__.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/__init__.pyo'
+2017-06-29 18:56:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cache.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cache.py'
+2017-06-29 18:56:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cache.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cache.pyo'
+2017-06-29 18:56:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/changelog.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/changelog.py'
+2017-06-29 18:56:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleandate.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleandate.py'
+2017-06-29 18:56:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleandate.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleandate.pyo'
+2017-06-29 18:56:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleangenre.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleangenre.py'
+2017-06-29 18:56:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleangenre.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleangenre.pyo'
+2017-06-29 18:56:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleantitle.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleantitle.py'
+2017-06-29 18:56:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleantitle.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/cleantitle.pyo'
+2017-06-29 18:56:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/client.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/client.py'
+2017-06-29 18:56:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/client.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/client.pyo'
+2017-06-29 18:56:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/common.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/common.py'
+2017-06-29 18:56:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/control.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/control.py'
+2017-06-29 18:56:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/control.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/control.pyo'
+2017-06-29 18:56:51: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/debrid.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/debrid.py'
+2017-06-29 18:56:51: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dialogs.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dialogs.py'
+2017-06-29 18:56:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dialogs_list.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dialogs_list.py'
+2017-06-29 18:56:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/directstream.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/directstream.py'
+2017-06-29 18:56:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dom_parser.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dom_parser.py'
+2017-06-29 18:56:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dom_parser.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/dom_parser.pyo'
+2017-06-29 18:56:57: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/downloader.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/downloader.py'
+2017-06-29 18:56:58: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/executor.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/executor.py'
+2017-06-29 18:56:58: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/favourites.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/favourites.py'
+2017-06-29 18:56:58: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/favourites.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/favourites.pyo'
+2017-06-29 18:56:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/jsunfuck.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/jsunfuck.py'
+2017-06-29 18:56:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/jsunpack.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/jsunpack.py'
+2017-06-29 18:56:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/libtools.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/libtools.py'
+2017-06-29 18:56:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/log_utils.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/log_utils.py'
+2017-06-29 18:57:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/metacache.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/metacache.py'
+2017-06-29 18:57:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/metacache.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/metacache.pyo'
+2017-06-29 18:57:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/parsedom.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/parsedom.py'
+2017-06-29 18:57:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/playcount.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/playcount.py'
+2017-06-29 18:57:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/playcount.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/playcount.pyo'
+2017-06-29 18:57:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/player.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/player.py'
+2017-06-29 18:57:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/proxy.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/proxy.py'
+2017-06-29 18:57:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/__init__.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/__init__.py'
+2017-06-29 18:57:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/aes.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/aes.py'
+2017-06-29 18:57:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/blockfeeder.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/blockfeeder.py'
+2017-06-29 18:57:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/util.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/pyaes/util.py'
+2017-06-29 18:57:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/trailer.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/trailer.py'
+2017-06-29 18:57:04: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/trakt.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/trakt.py'
+2017-06-29 18:57:04: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/trakt.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/trakt.pyo'
+2017-06-29 18:57:04: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/unshorten.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/unshorten.py'
+2017-06-29 18:57:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/utils.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/utils.py'
+2017-06-29 18:57:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/views.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/views.py'
+2017-06-29 18:57:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/views.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/views.pyo'
+2017-06-29 18:57:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/workers.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/workers.py'
+2017-06-29 18:57:06: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/modules/workers.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/modules/workers.pyo'
+2017-06-29 18:57:06: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/__init__.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/__init__.py'
+2017-06-29 18:57:09: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/afmovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/afmovies.py'
+2017-06-29 18:57:10: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/allrls.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/allrls.py'
+2017-06-29 18:57:10: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/alluc.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/alluc.py'
+2017-06-29 18:57:10: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/animetoon.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/animetoon.py'
+2017-06-29 18:57:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/bmoviez.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/bmoviez.py'
+2017-06-29 18:57:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/bobby.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/bobby.py'
+2017-06-29 18:57:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/chillflix.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/chillflix.py'
+2017-06-29 18:57:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/ddlvalley.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/ddlvalley.py'
+2017-06-29 18:57:12: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/directdl.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/directdl.py'
+2017-06-29 18:57:12: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/afdah.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/afdah.py'
+2017-06-29 18:57:12: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/bcinema.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/bcinema.py'
+2017-06-29 18:57:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/bcinema_mv_tv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/bcinema_mv_tv.py'
+2017-06-29 18:57:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/cinemabox.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/cinemabox.py'
+2017-06-29 18:57:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/coolxvid_mv_tv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/coolxvid_mv_tv.py'
+2017-06-29 18:57:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/fdl_mv_tv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/fdl_mv_tv.py'
+2017-06-29 18:57:14: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/genvideo.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/genvideo.py'
+2017-06-29 18:57:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/hdmoviefree.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/hdmoviefree.py'
+2017-06-29 18:57:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/miradetodo.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/miradetodo.py'
+2017-06-29 18:57:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/movie4k_mv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/movie4k_mv.py'
+2017-06-29 18:57:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviefree.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviefree.py'
+2017-06-29 18:57:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviefree_mv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviefree_mv.py'
+2017-06-29 18:57:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviegee.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviegee.py'
+2017-06-29 18:57:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviego_mv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviego_mv.py'
+2017-06-29 18:57:17: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviezone.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/moviezone.py'
+2017-06-29 18:57:17: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/mvzone_mv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/mvzone_mv.py'
+2017-06-29 18:57:18: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/onemovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/onemovies.py'
+2017-06-29 18:57:18: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/openmovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/openmovies.py'
+2017-06-29 18:57:18: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/sockshare_mv_tv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/sockshare_mv_tv.py'
+2017-06-29 18:57:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/tunemovie.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/tunemovie.py'
+2017-06-29 18:57:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/watch32.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/watch32.py'
+2017-06-29 18:57:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/watch5s_mv_tv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/watch5s_mv_tv.py'
+2017-06-29 18:57:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/watchfilm.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/disabled/watchfilm.py'
+2017-06-29 18:57:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/dltube.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/dltube.py'
+2017-06-29 18:57:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/fmovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/fmovies.py'
+2017-06-29 18:57:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/gogoanime.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/gogoanime.py'
+2017-06-29 18:57:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/gomovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/gomovies.py'
+2017-06-29 18:57:21: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/hevcfilm.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/hevcfilm.py'
+2017-06-29 18:57:21: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/icefilms.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/icefilms.py'
+2017-06-29 18:57:21: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/library.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/library.py'
+2017-06-29 18:57:22: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/moviego.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/moviego.py'
+2017-06-29 18:57:22: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/movies14.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/movies14.py'
+2017-06-29 18:57:22: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/movies25.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/movies25.py'
+2017-06-29 18:57:22: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/movieshd.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/movieshd.py'
+2017-06-29 18:57:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/moviexk.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/moviexk.py'
+2017-06-29 18:57:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/myddl.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/myddl.py'
+2017-06-29 18:57:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/myvideolink.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/myvideolink.py'
+2017-06-29 18:57:24: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/onemovieshd.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/onemovieshd.py'
+2017-06-29 18:57:24: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/onemx.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/onemx.py'
+2017-06-29 18:57:24: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/pelispedia.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/pelispedia.py'
+2017-06-29 18:57:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/primewire.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/primewire.py'
+2017-06-29 18:57:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/projectfree.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/projectfree.py'
+2017-06-29 18:57:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/pubfilm.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/pubfilm.py'
+2017-06-29 18:57:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/putlocker.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/putlocker.py'
+2017-06-29 18:57:26: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/putmovie.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/putmovie.py'
+2017-06-29 18:57:26: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rapidmovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rapidmovies.py'
+2017-06-29 18:57:26: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/releasebb.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/releasebb.py'
+2017-06-29 18:57:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rlshd.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rlshd.py'
+2017-06-29 18:57:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rlslog.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rlslog.py'
+2017-06-29 18:57:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rlsmovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/rlsmovies.py'
+2017-06-29 18:57:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/scenedown.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/scenedown.py'
+2017-06-29 18:57:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/sceper.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/sceper.py'
+2017-06-29 18:57:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/scnlog.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/scnlog.py'
+2017-06-29 18:57:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/scnsrc.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/scnsrc.py'
+2017-06-29 18:57:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/seriesonline.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/seriesonline.py'
+2017-06-29 18:57:29: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/sezonlukdizi.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/sezonlukdizi.py'
+2017-06-29 18:57:29: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/solar.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/solar.py'
+2017-06-29 18:57:30: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/solarmovie.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/solarmovie.py'
+2017-06-29 18:57:31: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/threemovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/threemovies.py'
+2017-06-29 18:57:31: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tinydl.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tinydl.py'
+2017-06-29 18:57:31: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tunemovie.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tunemovie.py'
+2017-06-29 18:57:32: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tvhd.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tvhd.py'
+2017-06-29 18:57:32: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tvrls.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/tvrls.py'
+2017-06-29 18:57:32: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/twoddl.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/twoddl.py'
+2017-06-29 18:57:32: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/vidics.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/vidics.py'
+2017-06-29 18:57:33: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watch5s.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watch5s.py'
+2017-06-29 18:57:33: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchcartoon.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchcartoon.py'
+2017-06-29 18:57:33: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchepisodes.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchepisodes.py'
+2017-06-29 18:57:33: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchfree.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchfree.py'
+2017-06-29 18:57:34: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchfrees.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchfrees.py'
+2017-06-29 18:57:34: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchseries.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/watchseries.py'
+2017-06-29 18:57:34: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/wonline.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/wonline.py'
+2017-06-29 18:57:34: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/wrzcraft.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/wrzcraft.py'
+2017-06-29 18:57:35: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/wso.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/wso.py'
+2017-06-29 18:57:35: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/xmovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/xmovies.py'
+2017-06-29 18:57:35: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/lib/sources/ymovies.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/lib/sources/ymovies.py'
+2017-06-29 18:57:36: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/screenshots/01.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/screenshots/01.jpg'
+2017-06-29 18:57:36: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/screenshots/02.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/screenshots/02.jpg'
+2017-06-29 18:57:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/screenshots/03.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/screenshots/03.jpg'
+2017-06-29 18:57:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/settings.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/settings.xml'
+2017-06-29 18:57:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/centered/DialogSelectList.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/centered/DialogSelectList.xml'
+2017-06-29 18:57:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/centered/DialogSelectx.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/centered/DialogSelectx.xml'
+2017-06-29 18:57:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/DialogSelectList.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/DialogSelectList.xml'
+2017-06-29 18:57:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/DialogSelectx.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/1080i/DialogSelectx.xml'
+2017-06-29 18:57:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/AddonWindow/black.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/AddonWindow/black.png'
+2017-06-29 18:57:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/AddonWindow/white.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/AddonWindow/white.png'
+2017-06-29 18:57:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Button/close.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Button/close.png'
+2017-06-29 18:57:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/ContentPanel.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/ContentPanel.png'
+2017-06-29 18:57:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/dialog_back.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/dialog_back.png'
+2017-06-29 18:57:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/focus.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/focus.png'
+2017-06-29 18:57:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/List/focus.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/List/focus.png'
+2017-06-29 18:57:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/progressback.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/progressback.png'
+2017-06-29 18:57:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/progressbar.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/progressbar.png'
+2017-06-29 18:57:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbar.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbar.png'
+2017-06-29 18:57:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarh_bar.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarh_bar.png'
+2017-06-29 18:57:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarh_bar_focus.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarh_bar_focus.png'
+2017-06-29 18:57:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarv_bar.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarv_bar.png'
+2017-06-29 18:57:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarv_bar_focus.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/Default/media/Scrollbar/scrollbarv_bar_focus.png'
+2017-06-29 18:57:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/icons/1080.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/icons/1080.png'
+2017-06-29 18:57:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/icons/480.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/icons/480.png'
+2017-06-29 18:57:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/icons/4k.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/icons/4k.png'
+2017-06-29 18:57:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/icons/720.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/icons/720.png'
+2017-06-29 18:57:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/icons/sd.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/icons/sd.png'
+2017-06-29 18:57:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.elysium/resources/skins/icons/torrent.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.elysium/resources/skins/icons/torrent.png'
+2017-06-29 18:57:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/_DMsearch.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/_DMsearch.py'
+2017-06-29 18:57:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/_Edit.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/_Edit.py'
+2017-06-29 18:57:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/_Edit.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/_Edit.pyo'
+2017-06-29 18:57:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/_ytplist.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/_ytplist.py'
+2017-06-29 18:57:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/addon.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/addon.py'
+2017-06-29 18:57:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/addon.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/addon.xml'
+2017-06-29 18:57:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/changelog.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/changelog.txt'
+2017-06-29 18:57:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/cloudflare.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/cloudflare.py'
+2017-06-29 18:57:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/commonresolvers.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/commonresolvers.py'
+2017-06-29 18:57:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/CustomPlayer.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/CustomPlayer.py'
+2017-06-29 18:57:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/default.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/default.py'
+2017-06-29 18:57:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/fanart.jpg'
+2017-06-29 18:57:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/genesisresolvers.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/genesisresolvers.py'
+2017-06-29 18:57:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/genesisresolvers.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/genesisresolvers.pyo'
+2017-06-29 18:57:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/icon.png'
+2017-06-29 18:57:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/keepalive.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/keepalive.py'
+2017-06-29 18:57:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/LICENSE.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/LICENSE.txt'
+2017-06-29 18:57:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/playtvfr.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/playtvfr.py'
+2017-06-29 18:57:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_DMsearch.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_DMsearch.py'
+2017-06-29 18:57:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_Edit.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_Edit.py'
+2017-06-29 18:57:51: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_Edit.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_Edit.pyo'
+2017-06-29 18:57:51: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_ytplist.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/_ytplist.py'
+2017-06-29 18:57:51: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/addon.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/addon.py'
+2017-06-29 18:57:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/addon.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/addon.xml'
+2017-06-29 18:57:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/changelog.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/changelog.txt'
+2017-06-29 18:57:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/cloudflare.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/cloudflare.py'
+2017-06-29 18:57:52: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/commonresolvers.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/commonresolvers.py'
+2017-06-29 18:57:53: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/CustomPlayer.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/CustomPlayer.py'
+2017-06-29 18:57:53: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/default.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/default.py'
+2017-06-29 18:57:53: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/fanart.jpg'
+2017-06-29 18:57:54: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/genesisresolvers.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/genesisresolvers.py'
+2017-06-29 18:57:54: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/genesisresolvers.pyo' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/genesisresolvers.pyo'
+2017-06-29 18:57:55: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/icon.png'
+2017-06-29 18:57:55: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/keepalive.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/keepalive.py'
+2017-06-29 18:57:55: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/LICENSE.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/LICENSE.txt'
+2017-06-29 18:57:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/playtvfr.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/playtvfr.py'
+2017-06-29 18:57:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/vipracing.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/vipracing.py'
+2017-06-29 18:57:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/wattv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/wattv.py'
+2017-06-29 18:57:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/youtubedl.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/plugin.video.freethemonster/youtubedl.py'
+2017-06-29 18:57:57: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/vipracing.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/vipracing.py'
+2017-06-29 18:57:57: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/wattv.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/wattv.py'
+2017-06-29 18:57:57: Copy Over 'D:/Kodi/Repos/bradleyrepo2/plugin.video.freethemonster/youtubedl.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/plugin.video.freethemonster/youtubedl.py'
+2017-06-29 18:57:58: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/addon.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/addon.xml'
+2017-06-29 18:57:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/changelog.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/changelog.txt'
+2017-06-29 18:57:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/default.py' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/default.py'
+2017-06-29 18:58:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/fanart.jpg'
+2017-06-29 18:58:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/icon.png'
+2017-06-29 18:58:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/airing-today.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/airing-today.png'
+2017-06-29 18:58:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/box-office.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/box-office.png'
+2017-06-29 18:58:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/calendar.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/calendar.png'
+2017-06-29 18:58:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/certificates.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/certificates.png'
+2017-06-29 18:58:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/channels.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/channels.png'
+2017-06-29 18:58:04: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/disney.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/disney.png'
+2017-06-29 18:58:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/downloads.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/downloads.png'
+2017-06-29 18:58:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/fanart.jpg'
+2017-06-29 18:58:06: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/featured.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/featured.png'
+2017-06-29 18:58:06: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/genres.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/genres.png'
+2017-06-29 18:58:07: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/highly-rated.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/highly-rated.png'
+2017-06-29 18:58:07: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/icon.png'
+2017-06-29 18:58:08: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/icon2.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/icon2.png'
+2017-06-29 18:58:08: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/icon3.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/icon3.png'
+2017-06-29 18:58:08: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/imdb.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/imdb.png'
+2017-06-29 18:58:09: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/in-theaters.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/in-theaters.png'
+2017-06-29 18:58:09: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/languages.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/languages.png'
+2017-06-29 18:58:10: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/latest-episodes.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/latest-episodes.png'
+2017-06-29 18:58:10: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/latest-movies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/latest-movies.png'
+2017-06-29 18:58:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/library_update.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/library_update.png'
+2017-06-29 18:58:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/marvel.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/marvel.png'
+2017-06-29 18:58:12: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/most-popular.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/most-popular.png'
+2017-06-29 18:58:12: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/most-viewed.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/most-viewed.png'
+2017-06-29 18:58:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/most-voted.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/most-voted.png'
+2017-06-29 18:58:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/movies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/movies.png'
+2017-06-29 18:58:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/mymovies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/mymovies.png'
+2017-06-29 18:58:14: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/mytvshows.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/mytvshows.png'
+2017-06-29 18:58:14: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/networks.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/networks.png'
+2017-06-29 18:58:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/new-tvshows.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/new-tvshows.png'
+2017-06-29 18:58:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/next.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/next.png'
+2017-06-29 18:58:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/next2.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/next2.png'
+2017-06-29 18:58:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/oscar-winners.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/oscar-winners.png'
+2017-06-29 18:58:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/oscars.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/oscars.png'
+2017-06-29 18:58:17: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/people-search.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/people-search.png'
+2017-06-29 18:58:17: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/people-watching.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/people-watching.png'
+2017-06-29 18:58:18: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/people.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/people.png'
+2017-06-29 18:58:18: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/populars.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/populars.png'
+2017-06-29 18:58:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/poster.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/poster.png'
+2017-06-29 18:58:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/returning-tvshows.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/returning-tvshows.png'
+2017-06-29 18:58:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/search.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/search.png'
+2017-06-29 18:58:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/tools.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/tools.png'
+2017-06-29 18:58:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/trakt.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/trakt.png'
+2017-06-29 18:58:21: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/trending.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/trending.png'
+2017-06-29 18:58:21: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/tvshows.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/tvshows.png'
+2017-06-29 18:58:22: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/userlists.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/userlists.png'
+2017-06-29 18:58:22: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Default/years.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Default/years.png'
+2017-06-29 18:58:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/airing-today.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/airing-today.png'
+2017-06-29 18:58:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/certificates.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/certificates.png'
+2017-06-29 18:58:24: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/channels.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/channels.png'
+2017-06-29 18:58:24: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/disney.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/disney.png'
+2017-06-29 18:58:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/downloads.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/downloads.png'
+2017-06-29 18:58:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/fanart.jpg'
+2017-06-29 18:58:26: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/featured.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/featured.png'
+2017-06-29 18:58:26: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/genres.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/genres.png'
+2017-06-29 18:58:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/icon.png'
+2017-06-29 18:58:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/icon2.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/icon2.png'
+2017-06-29 18:58:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/in-theaters.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/in-theaters.png'
+2017-06-29 18:58:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/latest-movies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/latest-movies.png'
+2017-06-29 18:58:29: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/marvel.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/marvel.png'
+2017-06-29 18:58:29: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/most-viewed.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/most-viewed.png'
+2017-06-29 18:58:30: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/movies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/movies.png'
+2017-06-29 18:58:30: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/mymovies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/mymovies.png'
+2017-06-29 18:58:31: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/networks.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/networks.png'
+2017-06-29 18:58:31: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/next.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/next.png'
+2017-06-29 18:58:32: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/oscars.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/oscars.png'
+2017-06-29 18:58:32: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/people-search.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/people-search.png'
+2017-06-29 18:58:33: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/people.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/people.png'
+2017-06-29 18:58:33: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/populars.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/populars.png'
+2017-06-29 18:58:34: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/poster.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/poster.png'
+2017-06-29 18:58:34: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/search.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/search.png'
+2017-06-29 18:58:35: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/tools.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/tools.png'
+2017-06-29 18:58:35: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/trending.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/trending.png'
+2017-06-29 18:58:35: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/years.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Elysium/years.png'
+2017-06-29 18:58:36: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/airing-today.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/airing-today.png'
+2017-06-29 18:58:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/certificates.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/certificates.png'
+2017-06-29 18:58:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/channels.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/channels.png'
+2017-06-29 18:58:37: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/disney.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/disney.png'
+2017-06-29 18:58:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/downloads.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/downloads.png'
+2017-06-29 18:58:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/fanart.jpg' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/fanart.jpg'
+2017-06-29 18:58:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/featured.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/featured.png'
+2017-06-29 18:58:39: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/genres.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/genres.png'
+2017-06-29 18:58:40: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/icon.png'
+2017-06-29 18:58:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/icon2.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/icon2.png'
+2017-06-29 18:58:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/in-theaters.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/in-theaters.png'
+2017-06-29 18:58:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/latest-movies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/latest-movies.png'
+2017-06-29 18:58:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/marvel.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/marvel.png'
+2017-06-29 18:58:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/most-viewed.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/most-viewed.png'
+2017-06-29 18:58:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/movies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/movies.png'
+2017-06-29 18:58:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/mymovies.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/mymovies.png'
+2017-06-29 18:58:44: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/networks.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/networks.png'
+2017-06-29 18:58:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/next.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/next.png'
+2017-06-29 18:58:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/oscars.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/oscars.png'
+2017-06-29 18:58:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/people-search.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/people-search.png'
+2017-06-29 18:58:46: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/people.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/people.png'
+2017-06-29 18:58:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/populars.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/populars.png'
+2017-06-29 18:58:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/poster.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/poster.png'
+2017-06-29 18:58:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/search.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/search.png'
+2017-06-29 18:58:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/tools.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/tools.png'
+2017-06-29 18:58:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/trending.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/trending.png'
+2017-06-29 18:58:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/script.elysium.artwork/resources/media/Zen/years.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/script.elysium.artwork/resources/media/Zen/years.png'
+2017-06-29 18:58:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.advancedsettings/plugin.program.advancedsettings-0.8.8.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.advancedsettings/plugin.program.advancedsettings-0.8.8.zip'
+2017-06-29 18:58:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.bradleyswizard/plugin.program.bradleyswizard-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.bradleyswizard/plugin.program.bradleyswizard-1.0.zip'
+2017-06-29 18:59:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.mancavewizard/plugin.program.mancavewizard-0.0.6.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.mancavewizard/plugin.program.mancavewizard-0.0.6.zip'
+2017-06-29 18:59:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.supremebuildswizard/plugin.program.supremebuildswizard-3.0.4.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.supremebuildswizard/plugin.program.supremebuildswizard-3.0.4.zip'
+2017-06-29 18:59:12: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.viperwizard/plugin.program.viperwizard-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.viperwizard/plugin.program.viperwizard-1.0.zip'
+2017-06-29 18:59:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.Wolfpackwizard/plugin.program.Wolfpackwizard-1.6.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.Wolfpackwizard/plugin.program.Wolfpackwizard-1.6.zip'
+2017-06-29 18:59:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.elysium/plugin.video.elysium-2017.06.27t.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.elysium/plugin.video.elysium-2017.06.27t.zip'
+2017-06-29 18:59:28: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.exodus/plugin.video.exodus-3.1.22.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.exodus/plugin.video.exodus-3.1.22.zip'
+2017-06-29 18:59:30: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.freethemonster/plugin.video.freethemonster-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.freethemonster/plugin.video.freethemonster-1.0.zip'
+2017-06-29 18:59:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.LimitlessIPTV/plugin.video.LimitlessIPTV-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.LimitlessIPTV/plugin.video.LimitlessIPTV-1.0.zip'
+2017-06-29 19:01:11: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.mancavetv/plugin.video.mancavetv-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.mancavetv/plugin.video.mancavetv-1.0.zip'
+2017-06-29 19:01:13: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.MaverickTV/plugin.video.MaverickTV-4.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.MaverickTV/plugin.video.MaverickTV-4.2.zip'
+2017-06-29 19:01:16: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.miflix 4.1/plugin.video.miflix 4.1-4.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.miflix 4.1/plugin.video.miflix 4.1-4.1.zip'
+2017-06-29 19:01:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.playklub/plugin.video.playklub-2.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.playklub/plugin.video.playklub-2.2.zip'
+2017-06-29 19:01:25: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.prosport/plugin.video.prosport-0.83.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.prosport/plugin.video.prosport-0.83.zip'
+2017-06-29 19:01:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.real-movies/plugin.video.real-movies-2.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.real-movies/plugin.video.real-movies-2.1.zip'
+2017-06-29 19:01:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.salts/plugin.video.salts-2.0.196.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.salts/plugin.video.salts-2.0.196.zip'
+2017-06-29 19:01:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.specto/plugin.video.specto-2017.06.11.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.specto/plugin.video.specto-2017.06.11.1.zip'
+2017-06-29 19:01:45: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.supremacy/plugin.video.supremacy-1.1.8.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.supremacy/plugin.video.supremacy-1.1.8.zip'
+2017-06-29 19:01:48: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.wolfpack/plugin.video.wolfpack-1.8.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.wolfpack/plugin.video.wolfpack-1.8.zip'
+2017-06-29 19:01:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.wweonline/plugin.video.wweonline-0.2.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.wweonline/plugin.video.wweonline-0.2.1.zip'
+2017-06-29 19:01:55: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.video.xtream-codes/plugin.video.xtream-codes-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.video.xtream-codes/plugin.video.xtream-codes-1.0.zip'
+2017-06-29 19:01:57: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.duckpool/repository.duckpool-10.5.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.duckpool/repository.duckpool-10.5.zip'
+2017-06-29 19:01:58: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.elysium/repository.elysium-2017.06.10.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.elysium/repository.elysium-2017.06.10.zip'
+2017-06-29 19:01:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.maverickrepo/repository.maverickrepo-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.maverickrepo/repository.maverickrepo-1.0.zip'
+2017-06-29 19:02:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.mdrepo/repository.mdrepo-1.0.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.mdrepo/repository.mdrepo-1.0.2.zip'
+2017-06-29 19:02:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.metalkettle/repository.metalkettle-2.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.metalkettle/repository.metalkettle-2.0.0.zip'
+2017-06-29 19:02:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.noobsandnerds/repository.noobsandnerds-2.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.noobsandnerds/repository.noobsandnerds-2.0.zip'
+2017-06-29 19:02:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.playersklub/repository.playersklub-1.1.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.playersklub/repository.playersklub-1.1.1.zip'
+2017-06-29 19:02:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.simplycaz/repository.simplycaz-1.0.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.simplycaz/repository.simplycaz-1.0.1.zip'
+2017-06-29 19:02:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.supremacy/repository.supremacy-1.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.supremacy/repository.supremacy-1.1.zip'
+2017-06-29 19:02:04: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.supremebuilds/repository.supremebuilds-1.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.supremebuilds/repository.supremebuilds-1.0.0.zip'
+2017-06-29 19:02:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/repository.wolfpack/repository.wolfpack-1.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.wolfpack/repository.wolfpack-1.1.zip'
+2017-06-29 19:02:05: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.common.plugin.cache/script.common.plugin.cache-2.5.8.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.common.plugin.cache/script.common.plugin.cache-2.5.8.zip'
+2017-06-29 19:02:27: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.elysium.artwork/script.elysium.artwork-2017.06.08.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.elysium.artwork/script.elysium.artwork-2017.06.08.zip'
+2017-06-29 19:02:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.elysium.artwork/script.elysium.artwork-2017.06.27.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.elysium.artwork/script.elysium.artwork-2017.06.27.zip'
+2017-06-29 19:03:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.exodus.artwork/script.exodus.artwork-1.0.6.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.exodus.artwork/script.exodus.artwork-1.0.6.zip'
+2017-06-29 19:03:14: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.exodus.metadata/script.exodus.metadata-1.0.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.exodus.metadata/script.exodus.metadata-1.0.1.zip'
+2017-06-29 19:03:14: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.favourites/script.favourites-7.1.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.favourites/script.favourites-7.1.1.zip'
+2017-06-29 19:03:15: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.grab.fanart/script.grab.fanart-0.14.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.grab.fanart/script.grab.fanart-0.14.1.zip'
+2017-06-29 19:03:19: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel/script.icechannel-1.0.0.63.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel/script.icechannel-1.0.0.63.zip'
+2017-06-29 19:03:20: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel.dialogs/script.icechannel.dialogs-0.2.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel.dialogs/script.icechannel.dialogs-0.2.2.zip'
+2017-06-29 19:03:23: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel.extn.common/script.icechannel.extn.common-0.4.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel.extn.common/script.icechannel.extn.common-0.4.0.zip'
+2017-06-29 19:03:49: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel.theme.default/script.icechannel.theme.default-1.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel.theme.default/script.icechannel.theme.default-1.0.0.zip'
+2017-06-29 19:03:50: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.image.resource.select/script.image.resource.select-2.0.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.image.resource.select/script.image.resource.select-2.0.2.zip'
+2017-06-29 19:03:53: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.ivueguide/script.ivueguide-3.0.9.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.ivueguide/script.ivueguide-3.0.9.zip'
+2017-06-29 19:03:54: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.addon.common/script.module.addon.common-2.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.addon.common/script.module.addon.common-2.0.0.zip'
+2017-06-29 19:03:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.dnspython/script.module.dnspython-1.11.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.dnspython/script.module.dnspython-1.11.1.zip'
+2017-06-29 19:03:56: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.f4mproxy/script.module.f4mproxy-1.0.16.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.f4mproxy/script.module.f4mproxy-1.0.16.zip'
+2017-06-29 19:03:57: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.feedparser/script.module.feedparser-5.1.3.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.feedparser/script.module.feedparser-5.1.3.zip'
+2017-06-29 19:04:01: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.muckys.common/script.module.muckys.common-1.3.5.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.muckys.common/script.module.muckys.common-1.3.5.zip'
+2017-06-29 19:04:02: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.pyamf/script.module.pyamf-0.6.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.pyamf/script.module.pyamf-0.6.2.zip'
+2017-06-29 19:04:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.socksipy/script.module.socksipy-2.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.socksipy/script.module.socksipy-2.0.0.zip'
+2017-06-29 19:04:03: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.universal/script.module.universal-2.0.3.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.universal/script.module.universal-2.0.3.zip'
+2017-06-29 19:04:04: == Sync Complete. Time: 00:07:28, Speed: 471 KB/s, OK: 391, Errors: 0
+2017-06-29 19:04:05: 

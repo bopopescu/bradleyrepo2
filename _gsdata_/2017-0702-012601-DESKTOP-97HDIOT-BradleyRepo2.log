@@ -1,0 +1,11 @@
+2017-07-02 01:26:05: -- Analysis Started by On File Change Incremental
+2017-07-02 01:26:05: L: State File has changed, so re-read it: D:/Kodi/Repos/bradleyrepo2/_gsdata_/_file_state_v4._gs
+2017-07-02 01:26:07: Changes: 4, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 8546
+2017-07-02 01:26:07: Left to Right: Copy File: 4 
+2017-07-02 01:26:07: == Sync Started by On File Change Incremental
+2017-07-02 01:26:07: Create Folder 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/repository.smash'
+2017-07-02 01:26:08: Copy New 'D:/Kodi/Repos/bradleyrepo2/repository.smash/addon.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/repository.smash/addon.xml'
+2017-07-02 01:26:09: Copy New 'D:/Kodi/Repos/bradleyrepo2/repository.smash/changelog.txt' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/repository.smash/changelog.txt'
+2017-07-02 01:26:10: Copy New 'D:/Kodi/Repos/bradleyrepo2/repository.smash/icon.png' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/repository.smash/icon.png'
+2017-07-02 01:26:12: == Sync Complete. Time: 00:00:05, Speed: 37.9 KB/s, OK: 4, Errors: 0
+2017-07-02 01:26:12: 

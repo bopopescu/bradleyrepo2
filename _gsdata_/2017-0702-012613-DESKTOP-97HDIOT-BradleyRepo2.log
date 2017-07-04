@@ -1,0 +1,12 @@
+2017-07-02 01:26:16: -- Analysis Started by On File Change Incremental
+2017-07-02 01:26:17: Changes: 6, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 8546
+2017-07-02 01:26:17: Left to Right: Copy File: 6 
+2017-07-02 01:26:17: == Sync Started by On File Change Incremental
+2017-07-02 01:26:17: Copy Over 'D:/Kodi/Repos/bradleyrepo2/addons.xml' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/addons.xml'
+2017-07-02 01:26:17: Copy Over 'D:/Kodi/Repos/bradleyrepo2/addons.xml.md5' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/addons.xml.md5'
+2017-07-02 01:26:21: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.advancedsettings/plugin.program.advancedsettings-0.8.8.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.advancedsettings/plugin.program.advancedsettings-0.8.8.zip'
+2017-07-02 01:26:43: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.bradleyswizard/plugin.program.bradleyswizard-1.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.bradleyswizard/plugin.program.bradleyswizard-1.0.zip'
+2017-07-02 01:26:47: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.mancavewizard/plugin.program.mancavewizard-0.0.6.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.mancavewizard/plugin.program.mancavewizard-0.0.6.zip'
+2017-07-02 01:26:53: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/plugin.program.supremebuildswizard/plugin.program.supremebuildswizard-3.0.4.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/plugin.program.supremebuildswizard/plugin.program.supremebuildswizard-3.0.4.zip'
+2017-07-02 01:26:55: == Sync Complete. Time: 00:00:38, Speed: 351 KB/s, OK: 6, Errors: 0
+2017-07-02 01:26:55: 

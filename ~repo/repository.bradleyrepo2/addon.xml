@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<addon id="repository.bradleyrepo2" name="Bradley Repo" version="2.0" provider-name="Bradley">
+    <extension point="xbmc.addon.repository" name="Bradley Repository">
+        <info compressed="false">http://bradl79.x10.mx/bradleyrepo2/addons.xml</info>
+        <checksum>http://bradl79.x10.mx/bradleyrepo2/addons.xml.md5</checksum>
+        <datadir zip="true">http://bradl79.x10.mx/bradleyrepo2/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary></summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+

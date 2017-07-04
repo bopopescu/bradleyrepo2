@@ -1,0 +1,14 @@
+2017-06-27 00:54:44: -- Analysis Started by User Command
+2017-06-27 00:57:24: Changes: 6, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 5256
+2017-06-27 00:57:24: Left to Right: Delete File: 6 
+2017-06-27 00:57:24: -- Analysis Complete. Time 00:02:40, Speed: 131 files/s
+2017-06-27 00:57:24: 
+2017-06-27 00:57:40: == Sync Started by User Command
+2017-06-27 00:57:40: Delete File 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/.gitattributes'
+2017-06-27 00:57:40: Delete File 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/.gitignore'
+2017-06-27 00:57:40: Delete File 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/repository.exodus/addon.xml'
+2017-06-27 00:57:40: Delete Folder 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/repository.exodus'
+2017-06-27 00:57:40: Delete File 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.exodus/repository.exodus-3.0.0.zip'
+2017-06-27 00:57:40: Delete Folder 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/repository.exodus'
+2017-06-27 00:57:42: == Sync Complete. Time: 00:00:03, Speed: 41.3 KB/s, OK: 6, Errors: 0
+2017-06-27 00:57:42: 

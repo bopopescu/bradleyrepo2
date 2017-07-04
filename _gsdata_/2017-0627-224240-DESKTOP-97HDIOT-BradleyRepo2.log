@@ -1,0 +1,26 @@
+2017-06-27 22:42:41: -- Analysis Started by User Command
+2017-06-27 22:47:24: /zips/script.exodus.metadata/script.exodus.metadata-1.0.1.zip: Warning: Older file to replace Newer file
+2017-06-27 22:47:24: Changes: 46, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 8490
+2017-06-27 22:47:24: Left to Right: Copy File: 46 
+2017-06-27 22:47:24: -- Analysis Complete. Time 00:04:44, Speed: 192 files/s
+2017-06-27 22:47:24: 
+2017-06-27 22:49:38: == Sync Started by User Command
+2017-06-27 22:49:59: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.exodus.metadata/script.exodus.metadata-1.0.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.exodus.metadata/script.exodus.metadata-1.0.1.zip'
+2017-06-27 22:50:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.favourites/script.favourites-7.1.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.favourites/script.favourites-7.1.1.zip'
+2017-06-27 22:50:00: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.grab.fanart/script.grab.fanart-0.14.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.grab.fanart/script.grab.fanart-0.14.1.zip'
+2017-06-27 22:50:05: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel/script.icechannel-1.0.0.63.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel/script.icechannel-1.0.0.63.zip'
+2017-06-27 22:50:06: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel.dialogs/script.icechannel.dialogs-0.2.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel.dialogs/script.icechannel.dialogs-0.2.2.zip'
+2017-06-27 22:50:09: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel.extn.common/script.icechannel.extn.common-0.4.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel.extn.common/script.icechannel.extn.common-0.4.0.zip'
+2017-06-27 22:50:38: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.icechannel.theme.default/script.icechannel.theme.default-1.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.icechannel.theme.default/script.icechannel.theme.default-1.0.0.zip'
+2017-06-27 22:50:38: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.image.resource.select/script.image.resource.select-2.0.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.image.resource.select/script.image.resource.select-2.0.2.zip'
+2017-06-27 22:50:41: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.ivueguide/script.ivueguide-3.0.9.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.ivueguide/script.ivueguide-3.0.9.zip'
+2017-06-27 22:50:42: Copy Over 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.addon.common/script.module.addon.common-2.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.addon.common/script.module.addon.common-2.0.0.zip'
+2017-06-27 22:50:44: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.dnspython/script.module.dnspython-1.11.1.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.dnspython/script.module.dnspython-1.11.1.zip'
+2017-06-27 22:50:44: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.f4mproxy/script.module.f4mproxy-1.0.16.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.f4mproxy/script.module.f4mproxy-1.0.16.zip'
+2017-06-27 22:50:44: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.feedparser/script.module.feedparser-5.1.3.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.feedparser/script.module.feedparser-5.1.3.zip'
+2017-06-27 22:50:49: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.muckys.common/script.module.muckys.common-1.3.5.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.muckys.common/script.module.muckys.common-1.3.5.zip'
+2017-06-27 22:50:52: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.pyamf/script.module.pyamf-0.6.2.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.pyamf/script.module.pyamf-0.6.2.zip'
+2017-06-27 22:50:52: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.socksipy/script.module.socksipy-2.0.0.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.socksipy/script.module.socksipy-2.0.0.zip'
+2017-06-27 22:50:52: Copy New 'D:/Kodi/Repos/bradleyrepo2/zips/script.module.universal/script.module.universal-2.0.3.zip' -> 'ftp://ftp.bradl79.x10.mx/public_html/bradleyrepo2/zips/script.module.universal/script.module.universal-2.0.3.zip'
+2017-06-27 22:50:53: == Sync Complete. Time: 00:01:16, Speed: 586 KB/s, OK: 17, Errors: 0
+2017-06-27 22:50:53: 

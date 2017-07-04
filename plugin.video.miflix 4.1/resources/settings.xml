@@ -1,0 +1,18 @@
+﻿<settings>		
+  <category label="Información addon miflix">
+  
+       
+       	<setting type="lsep" label="[COLOR yellow]Versión del Addon Actualizado 20/05/2017[/COLOR]" option="close" action="RunPlugin(plugin://plugin.video.miflix 4.1/?mode=7)" />
+        <setting type="lsep" label="[COLOR yellow]Facebook:[/COLOR]https://www.facebook.com/groups/miflixaddon/" option="close" action="RunPlugin(plugin://plugin.video.miflix 4.1/?mode=7)" />
+        <setting type="lsep" label="[COLOR yellow]Web:[/COLOR] http://miflixaddon.com" option="close" action="RunPlugin(plugin://plugin.video.miflix 4.1/?mode=7)" />
+		<setting type="lsep" label="[COLOR yellow]Donaciones:[/COLOR] negocios2128@gmail.com" option="close" action="RunPlugin(plugin://plugin.video.miflix 4.1/?mode=7)" />
+		</category>
+		
+  <category label="Configuración General">
+         <setting type="lsep" label="Actvacion de Addon" option="close" action="RunPlugin(plugin://plugin.video.miflix 4.1/?mode=7)" />
+        <setting id="activar_addon" type="bool" label="Activar miflix" default="false" />
+		<setting id="Reglador" label="[COLOR white]Regulador de calidad[/COLOR]" type="bool" default="true"/>
+       </category>
+  </settings>
+
+

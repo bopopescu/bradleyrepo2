@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.salts" version="2.0.196" name="Stream All The Sources" provider-name="k3l3vra">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0"/>
+        <import addon="script.module.urlresolver"/>
+        <import addon="script.module.myconnpy" />
+        <import addon="script.module.tknorris.shared"/>
+        <import addon="script.module.six"/>
+        <import addon="script.module.dateutil"/>
+        <import addon="script.module.image_cache" version="0.0.1" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+     <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Last Version Made From The TVA Guys</summary>
+        <description>Last Version Made From The TVA Guys        
+        </description>
+        <platform>all</platform>
+	</extension>
+</addon>
